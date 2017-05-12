@@ -1,1 +1,1 @@
-# js-shop-reset
+# js-shop-fisto
